@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently a **Full-Stack Developer** passionate about building clean, scalable web applications  
 - 🎸 When I’m not coding, I’m playing **lead guitar** and exploring new music  
-- 🌱 Always learning — right now focusing on **TypeScript**, **Django**, and **React performance optimization**  
+- 🌱 Always learning — right now focusing on **TypeScript**, **Express**, and **React performance optimization**  
 - 💬 I love talking about **web development**, **backend systems**, and **music production**
 
 ---
