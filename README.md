@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm Eric James Sonio</h1>
+<h1 align="center"> Hi, I'm Eric James Sonio</h1>
 
 <p align="center">
   🎓 4th Year Computer Science Student &nbsp;|&nbsp; 💻 Full-Stack Developer &nbsp;|&nbsp; 🎸 Lead Guitarist
