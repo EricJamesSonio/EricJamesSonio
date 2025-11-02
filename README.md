@@ -56,14 +56,6 @@
 
 ---
 
-### 🎵 Now Playing
-
-<p align="center">
-  <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" height="80"/>
-</p>
-
----
-
 ### 📝 Recent Activity
 
 <!--START_SECTION:activity-->
