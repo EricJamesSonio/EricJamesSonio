@@ -83,7 +83,7 @@
 ### ⌨️ WakaTime Coding Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?Ej&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ejdev&theme=radical" height="160" />
 </p>
 
 ---
