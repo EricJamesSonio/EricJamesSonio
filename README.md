@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Eric James Sonio</h1>
+<h1 align="center">Hi, I'm Eric James Sonio</h1>
 
 <p align="center">
   🎓 4th Year Computer Science Student &nbsp;|&nbsp; 💻 Full-Stack Developer &nbsp;|&nbsp; 🎸 Lead Guitarist
@@ -10,23 +10,23 @@
 
 - 🔭 I’m currently a **Full-Stack Developer** passionate about building clean, scalable web applications  
 - 🎸 When I’m not coding, I’m playing **lead guitar** and exploring new music  
-- 🌱 Always learning — right now focusing on **TypeScript**, **Express**, and **React performance optimization**  
+- 🌱 Always learning — currently focusing on **TypeScript**, **Express**, **React performance optimization**, and **Next.js**  
 - 💬 I love talking about **web development**, **backend systems**, and **music production**
 
 ---
 
 ### 🧰 Tech Stack
 
-**Frontend:**
+**Frontend:**  
 > React.js • TypeScript • JavaScript • HTML • CSS  
 
-**Backend:**
+**Backend:**  
 > Node.js • Express.js • PHP • Python (Django) • Java  
 
-**Database:**
+**Database:**  
 > MySQL • SQLite  
 
-**Other Languages:**
+**Other Languages:**  
 > C  
 
 ---
@@ -42,6 +42,17 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+
+---
+
+### 🔄 Currently Learning
+
+<!--START_SECTION:currently-learning-->
+- TypeScript  
+- React Performance Optimization  
+- Express.js  
+- Next.js
+<!--END_SECTION:currently-learning-->
 
 ---
 
