@@ -2,19 +2,19 @@ name: Update README automatically
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # runs every 12 hours
-  workflow_dispatch:       # allows manual trigger
+    - cron: "0 */12 * * *" # every 12 hours
+  workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Checkout your repo
+      # Checkout repo
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      # 2. Update Currently Learning section dynamically (example)
+      # Update Currently Learning section
       - name: Update Currently Learning
         uses: stefanzweifel/readme-md-action@v1
         with:
@@ -27,7 +27,7 @@ jobs:
                 - Express.js
                 - Next.js
 
-      # 3. Update Recent Activity section
+      # Update Recent Activity section
       - name: Update GitHub Activity
         uses: Readme-Workflows/recent-activity@v2
         with:
@@ -36,7 +36,7 @@ jobs:
           file: README.md
           section: activity
 
-      # 4. Commit changes
+      # Commit changes
       - name: Commit changes
         run: |
           git config --global user.name "github-actions[bot]"

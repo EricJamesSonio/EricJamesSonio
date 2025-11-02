@@ -56,10 +56,18 @@
 
 ---
 
-### 🎵 Outside of Code
+### 🎵 Now Playing
 
-> I’m a **lead guitarist** who loves playing live and experimenting with tone and recording.  
-> Music gives me creativity that I bring into my coding projects. 🎶
+<p align="center">
+  <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" height="80"/>
+</p>
+
+---
+
+### 📝 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
@@ -72,10 +80,11 @@
 
 ---
 
-### 📝 Recent Activity
+### ⌨️ WakaTime Coding Stats
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username&theme=radical" height="160" />
+</p>
 
 ---
 
