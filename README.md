@@ -8,9 +8,9 @@
 
 ### 🚀 About Me
 
-* 🔭 I’m currently a **Full-Stack Developer** passionate about building clean, scalable web applications
-* 🎸 When I’m not coding, I’m playing **lead guitar** and exploring new music
-* 🌱 Always learning — currently focusing on **TypeScript**, **Express**, **React performance optimization**, **Next.js**, and **GraphQL/Apollo Server**
+* 🔭 I’m currently a **Full-Stack Developer** passionate about building clean, scalable web applications  
+* 🎸 When I’m not coding, I’m playing **lead guitar** and exploring new music  
+* 🌱 Always learning — currently focusing on **TypeScript**, **Express**, **React performance optimization**, **Next.js**, and **GraphQL/Apollo Server**  
 * 💬 I love talking about **web development**, **backend systems**, and **music production**
 
 ---
@@ -19,7 +19,7 @@
 
 **Frontend:**
 
-> React.js • TypeScript • JavaScript • HTML • CSS
+> React.js • TypeScript • JavaScript • HTML • CSS • **SCSS** • **Tailwind CSS**
 
 **Backend:**
 
@@ -29,6 +29,10 @@
 
 > MySQL • SQLite • PostgreSQL
 
+**Containerization:**
+
+> **Docker**
+
 **Other Languages:**
 
 > C
@@ -37,17 +41,20 @@
 
 ### 🛠 Tools & Platforms
 
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge\&logo=visual-studio-code)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node-dot-js)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge\&logo=graphql)
-![Apollo](https://img.shields.io/badge/Apollo-311C87?style=for-the-badge\&logo=apollo-graphql)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
+![Apollo](https://img.shields.io/badge/Apollo-311C87?style=for-the-badge&logo=apollo-graphql)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
 ---
 
@@ -55,11 +62,13 @@
 
 <!--START_SECTION:currently-learning-->
 
-* TypeScript
-* React Performance Optimization
-* Express.js
-* Next.js
-* Apollo GraphQL
+* TypeScript  
+* React Performance Optimization  
+* Express.js  
+* Next.js  
+* Apollo GraphQL  
+* Docker  
+* Tailwind CSS  
 
 <!--END_SECTION:currently-learning-->
 
