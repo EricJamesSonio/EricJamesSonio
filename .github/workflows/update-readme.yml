@@ -1,15 +1,15 @@
-name: Update README automatically
+name: Update README automatically
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # every 12 hours
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  update‑readme:
+  update-readme:
     runs-on: ubuntu-latest
 
     steps:
@@ -17,20 +17,23 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      # Update “Currently Learning” section
+      # Update Currently Learning section using a shell script
       - name: Update Currently Learning
-        uses: stefanzweifel/readme‑md‑action@v1  # ensure this repo & version exist
-        with:
-          updates: |
-            - file: README.md
-              section: currently-learning
-              content: |
-                - TypeScript
-                - React Performance Optimization
-                - Express.js
-                - Next.js
+        run: |
+          file="README.md"
+          section="currently-learning"
+          content="- TypeScript
+- React Performance Optimization
+- Express.js
+- Next.js"
+          
+          # Replace content between markers <!--START_SECTION:currently-learning--> and <!--END_SECTION:currently-learning-->
+          sed -i -E "/<!--START_SECTION:${section}-->/,/<\!--END_SECTION:${section}-->/c\
+<!--START_SECTION:${section}-->\
+${content}\
+<!--END_SECTION:${section}-->" "$file"
 
-      # Update “Recent Activity” section
+      # Update Recent Activity section
       - name: Update GitHub Activity
         uses: Readme-Workflows/recent-activity@main
         with:
