@@ -51,45 +51,6 @@
 
 ---
 
-### 🔗 Sample API
-
-Here’s a simple GraphQL API example you can showcase:
-
-**Endpoint:** `https://your-api-domain.com/graphql`
-
-**Query Example:**
-
-```graphql
-query GetPosts {
-  posts {
-    id
-    title
-    content
-    author {
-      username
-    }
-    created_at
-  }
-}
-```
-
-**Mutation Example:**
-
-```graphql
-mutation CreatePost {
-  createPost(title: "Hello World", content: "My first GraphQL post") {
-    id
-    title
-    content
-    created_at
-  }
-}
-```
-
-This shows your **full-stack skills** with Apollo Server + GraphQL.
-
----
-
 ### 🔄 Currently Learning
 
 <!--START_SECTION:currently-learning-->
