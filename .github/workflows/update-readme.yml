@@ -29,7 +29,7 @@ jobs:
 
       # Update Recent Activity section
       - name: Update GitHub Activity
-        uses: Readme-Workflows/recent-activity@v2
+        uses: Readme-Workflows/recent-activity@main
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           limit: 5
