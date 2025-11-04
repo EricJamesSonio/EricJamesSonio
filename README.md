@@ -8,58 +8,99 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently a **Full-Stack Developer** passionate about building clean, scalable web applications  
-- 🎸 When I’m not coding, I’m playing **lead guitar** and exploring new music  
-- 🌱 Always learning — currently focusing on **TypeScript**, **Express**, **React performance optimization**, and **Next.js**  
-- 💬 I love talking about **web development**, **backend systems**, and **music production**
+* 🔭 I’m currently a **Full-Stack Developer** passionate about building clean, scalable web applications
+* 🎸 When I’m not coding, I’m playing **lead guitar** and exploring new music
+* 🌱 Always learning — currently focusing on **TypeScript**, **Express**, **React performance optimization**, **Next.js**, and **GraphQL/Apollo Server**
+* 💬 I love talking about **web development**, **backend systems**, and **music production**
 
 ---
 
 ### 🧰 Tech Stack
 
-**Frontend:**  
-> React.js • TypeScript • JavaScript • HTML • CSS  
+**Frontend:**
 
-**Backend:**  
-> Node.js • Express.js • PHP • Python (Django) • Java  
+> React.js • TypeScript • JavaScript • HTML • CSS
 
-**Database:**  
-> MySQL • SQLite  
+**Backend:**
 
-**Other Languages:**  
-> C  
+> Node.js • Express.js • Apollo Server (GraphQL) • PHP • Python (Django) • Java
+
+**Database:**
+
+> MySQL • SQLite • PostgreSQL
+
+**Other Languages:**
+
+> C
 
 ---
 
 ### 🛠 Tools & Platforms
 
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge\&logo=visual-studio-code)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node-dot-js)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge\&logo=graphql)
+![Apollo](https://img.shields.io/badge/Apollo-311C87?style=for-the-badge\&logo=apollo-graphql)
+
+---
+
+### 🔗 Sample API
+
+Here’s a simple GraphQL API example you can showcase:
+
+**Endpoint:** `https://your-api-domain.com/graphql`
+
+**Query Example:**
+
+```graphql
+query GetPosts {
+  posts {
+    id
+    title
+    content
+    author {
+      username
+    }
+    created_at
+  }
+}
+```
+
+**Mutation Example:**
+
+```graphql
+mutation CreatePost {
+  createPost(title: "Hello World", content: "My first GraphQL post") {
+    id
+    title
+    content
+    created_at
+  }
+}
+```
+
+This shows your **full-stack skills** with Apollo Server + GraphQL.
 
 ---
 
 ### 🔄 Currently Learning
 
 <!--START_SECTION:currently-learning-->
-- TypeScript  
-- React Performance Optimization  
-- Express.js  
-- Next.js
+
+* TypeScript
+* React Performance Optimization
+* Express.js
+* Next.js
+* Apollo GraphQL
+
 <!--END_SECTION:currently-learning-->
-
----
-
-### 📝 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ---
 
