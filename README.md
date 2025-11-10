@@ -18,41 +18,44 @@
 ## 🧰 Tech Stack
 
 ### Frontend
-**React.js • Angular • TypeScript • JavaScript • HTML • CSS • SCSS • Tailwind CSS**
-
-### Backend
-**Node.js • Express.js • ASP.NET Core (C#) • Apollo Server (GraphQL) • PHP • Python (Django) • Java**
-
-### Database
-**MySQL • SQLite • PostgreSQL**
-
-### Containerization
-**Docker**
-
-### Other Languages
-**C**
-
----
-
-## 🛠 Tools & Platforms
-
 <p align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular" />
-  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dot-net" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css" />
+</p>
+
+### Backend
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dot-net" />
   <img src="https://img.shields.io/badge/Apollo-311C87?style=for-the-badge&logo=apollo-graphql" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java" />
+</p>
+
+### Database
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql" />
+</p>
+
+### Containerization
+<p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker" />
+</p>
+
+### Other Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c" />
 </p>
 
 ---
