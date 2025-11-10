@@ -10,7 +10,7 @@
 
 * 🔭 I’m currently a **Full-Stack Developer** passionate about building clean, scalable web applications  
 * 🎸 When I’m not coding, I’m playing **lead guitar** and exploring new music  
-* 🌱 Always learning — currently focusing on **TypeScript**, **Express**, **React performance optimization**, **Next.js**, and **GraphQL/Apollo Server**  
+* 🌱 Always learning — currently focusing on **TypeScript**, **Express**, **React performance optimization**, **Next.js**, **Angular**, **ASP.NET Core**, and **GraphQL/Apollo Server**  
 * 💬 I love talking about **web development**, **backend systems**, and **music production**
 
 ---
@@ -19,11 +19,11 @@
 
 **Frontend:**
 
-> React.js • TypeScript • JavaScript • HTML • CSS • **SCSS** • **Tailwind CSS**
+> React.js • Angular • TypeScript • JavaScript • HTML • CSS • **SCSS** • **Tailwind CSS**
 
 **Backend:**
 
-> Node.js • Express.js • Apollo Server (GraphQL) • PHP • Python (Django) • Java
+> Node.js • Express.js • ASP.NET Core (C#) • Apollo Server (GraphQL) • PHP • Python (Django) • Java
 
 **Database:**
 
@@ -45,6 +45,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dot-net)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
@@ -65,6 +67,8 @@
 * TypeScript  
 * React Performance Optimization  
 * Express.js  
+* Angular  
+* ASP.NET Core  
 * Next.js  
 * Apollo GraphQL  
 * Docker  
