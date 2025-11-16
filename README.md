@@ -1,6 +1,12 @@
 <h1 align="center">Hi, I'm Eric James Sonio</h1>
 
 <p align="center">
+  <a href="https://ericjamessonio.github.io/Porttfolio/" target="_blank">
+    🌐 Visit My Portfolio
+  </a>
+</p>
+
+<p align="center">
   🎓 4th Year Computer Science Student &nbsp;|&nbsp; 💻 Full-Stack Developer &nbsp;|&nbsp; 🎸 Lead Guitarist
 </p>
 
