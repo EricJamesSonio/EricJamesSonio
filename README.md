@@ -89,19 +89,17 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub & WakaTime Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EricJamesSonio&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricJamesSonio&layout=compact&theme=radical" height="160" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=EricJamesSonio&show_icons=true&theme=radical&count_private=true&hide=prs&cache_seconds=1800" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricJamesSonio&layout=compact&theme=radical&langs_count=8" height="160" />
 </p>
 
----
-
-## ⌨️ WakaTime Coding Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ejdev&theme=radical" height="160" />
+  <!-- WakaTime Stats -->
+  <img src="https://wakatime.com/badge/user/Ejdev.svg" height="160" />
 </p>
 
 ---
