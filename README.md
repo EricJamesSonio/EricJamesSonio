@@ -16,8 +16,8 @@
 
 - I’m a **Full-Stack Developer** passionate about building clean, scalable web applications  
 - More focused on **Backend Development**: Scalability, Security, Maintainable Software  
-- Experienced in **Microservices**, **Event-Driven Architecture (Kafka)**, **API Gateways**, **Load Balancers**, **Sockets**, **GraphQL**, and **MongoDB**  
-- I love talking about **web development** and **backend systems**  
+- Experienced in **Microservices**, **Event‑Driven Architecture (Kafka)**, **API Gateways**, **Load Balancers**, **Sockets**, **GraphQL**, and **MongoDB**  
+- I love talking about **web development** and **backend systems**
 
 ---
 
@@ -84,9 +84,8 @@
 </p>
 
 <p align="center">
-  <a href="https://wakatime.com/@Ejdev">
-    <img src="https://wakatime.com/badge/user/Ejdev.svg" height="160" />
-  </a>
+  📊 WakaTime Coding Stats:  
+  <a href="https://wakatime.com/@Ejdev">https://wakatime.com/@Ejdev</a>
 </p>
 
 ---
