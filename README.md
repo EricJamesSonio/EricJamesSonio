@@ -85,9 +85,15 @@
 </p>
 
 <p align="center">
-  <!-- WakaTime Card -->
-  <img src="https://wakatime.com/badge/user/Ejdev.svg" height="160" alt="WakaTime Stats" />
+  <!-- WakaTime Share Badge -->
+  <img src="https://wakatime.com/share/@Ejdev/4153525d-2040-413b-9b6b-cebcaba20ccc.svg" height="160" alt="WakaTime Coding Stats" />
 </p>
+
+<p align="center">
+  <!-- WakaTime Animated Insights -->
+  <img src="https://wakatime.com/insights/animated/days.gif" alt="WakaTime Daily Activity" />
+</p>
+
 
 
 ---
