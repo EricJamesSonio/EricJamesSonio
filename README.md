@@ -76,17 +76,19 @@
 
 ---
 
-## GitHub & WakaTime Stats
+## GitHub & Coding Stats
 
 <p align="center">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats-fast.vercel.app/api?username=EricJamesSonio&show_icons=true&theme=radical" height="160" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=EricJamesSonio&layout=compact&theme=radical" height="160" />
 </p>
 
 <p align="center">
-  📊 WakaTime Coding Stats:  
-  <a href="https://wakatime.com/@Ejdev">https://wakatime.com/@Ejdev</a>
+  <!-- WakaTime Card -->
+  <img src="https://wakatime.com/badge/user/Ejdev.svg" height="160" alt="WakaTime Stats" />
 </p>
+
 
 ---
 
