@@ -12,16 +12,16 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🔭 I’m currently a **Full-Stack Developer** passionate about building clean, scalable web applications  
-- 🎸 When I’m not coding, I’m playing **lead guitar** and exploring new music  
-- 🌱 Always learning — currently focusing on **TypeScript**, **Express**, **React performance optimization**, **Next.js**, **Angular**, **ASP.NET Core**, and **GraphQL/Apollo Server**  
-- 💬 I love talking about **web development**, **backend systems**, and **music production**
+- I’m currently a **Full-Stack Developer** passionate about building clean, scalable web applications  
+- When I’m not coding, I’m playing **lead guitar** and exploring new music  
+- Always learning — currently focusing on **TypeScript**, **Express**, **React performance optimization**, **Next.js**, **Angular**, **ASP.NET Core**, and **GraphQL/Apollo Server**  
+- I love talking about **web development**, **backend systems**, and **music production**
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <p align="center">
   <!-- Frontend -->
@@ -89,7 +89,7 @@
 
 ---
 
-## 📊 GitHub & WakaTime Stats
+## GitHub & WakaTime Stats
 
 <p align="center">
   <!-- Working GitHub stats -->
