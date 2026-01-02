@@ -14,11 +14,10 @@
 
 ## About Me
 
-- I’m a **Full-Stack Developer** passionate about building clean, scalable web applications
-- More focused on Backend Developments! Scalability, Security, Maintanable Softwares! 
-- Always learning — currently focusing on **TypeScript**, **Express**, **React performance optimization**, **Next.js**, **Angular**, **ASP.NET Core**, and **GraphQL/Apollo Server**  
-- I love talking about **web development** and **backend systems**
-- Studying Microservices, Load balancer, Api gateway, Event driven Architecture using kafka. Already built projects about that.
+- I’m a **Full-Stack Developer** passionate about building clean, scalable web applications  
+- More focused on **Backend Development**: Scalability, Security, Maintainable Software  
+- Experienced in **Microservices**, **Event-Driven Architecture (Kafka)**, **API Gateways**, **Load Balancers**, **Sockets**, **GraphQL**, and **MongoDB**  
+- I love talking about **web development** and **backend systems**  
 
 ---
 
@@ -53,6 +52,7 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 <p align="center">
@@ -76,20 +76,6 @@
 
 ---
 
-## Currently Learning
-
-- TypeScript  
-- React Performance Optimization  
-- Express.js  
-- Angular  
-- ASP.NET Core  
-- Next.js  
-- Apollo GraphQL  
-- Docker  
-- Tailwind CSS  
-
----
-
 ## GitHub & WakaTime Stats
 
 <p align="center">
@@ -99,7 +85,7 @@
 
 <p align="center">
   <a href="https://wakatime.com/@Ejdev">
-    <img src="https://wakatime.com/share/@Ejdev.svg" height="160" />
+    <img src="https://wakatime.com/badge/user/Ejdev.svg" height="160" />
   </a>
 </p>
 
