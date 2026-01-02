@@ -14,9 +14,11 @@
 
 ## About Me
 
-- I’m a **Full-Stack Developer** passionate about building clean, scalable web applications  
+- I’m a **Full-Stack Developer** passionate about building clean, scalable web applications
+- Much focused on Backend Developments! Scalability, Security, Maintanable Softwares! 
 - Always learning — currently focusing on **TypeScript**, **Express**, **React performance optimization**, **Next.js**, **Angular**, **ASP.NET Core**, and **GraphQL/Apollo Server**  
 - I love talking about **web development** and **backend systems**
+- Studying Microservices, Load balancer, Api gateway, Event driven Architecture using kafka. Already built projects about that.
 
 ---
 
