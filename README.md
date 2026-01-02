@@ -85,13 +85,10 @@
 </p>
 
 <p align="center">
-  <!-- WakaTime Share Badge -->
-  <img src="https://wakatime.com/share/@Ejdev/4153525d-2040-413b-9b6b-cebcaba20ccc.svg" height="160" alt="WakaTime Coding Stats" />
-</p>
-
-<p align="center">
-  <!-- WakaTime Animated Insights -->
-  <img src="https://wakatime.com/insights/animated/days.gif" alt="WakaTime Daily Activity" />
+  <!-- WakaTime Card -->
+  <a href="https://wakatime.com/@Ejdev" target="_blank">
+    <img src="https://img.shields.io/badge/WakaTime-Coding%20Stats-0D1117?style=for-the-badge&logo=wakatime&logoColor=61DAFB" alt="WakaTime" />
+  </a>
 </p>
 
 
