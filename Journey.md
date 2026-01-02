@@ -1,0 +1,2 @@
+January 2 , 2026
+- Started this journey here, just for writing down what i've learned, i hope i keep on writing here and don't get lazy .
