@@ -14,10 +14,9 @@
 
 ## About Me
 
-- I’m a **Full-Stack Developer** passionate about building clean, scalable web applications  
-- More focused on **Backend Development**: Scalability, Security, Maintainable Software  
-- Experienced in **Microservices**, **Event‑Driven Architecture (Kafka)**, **API Gateways**, **Load Balancers**, **Sockets**, **GraphQL**, and **MongoDB**  
-- I love talking about **web development** and **backend systems**
+- I’m a **Full-Stack Developer**
+- Primarily focused on **Backend Development**, with an emphasis on scalability, security, and maintainable software
+- Frequently use the following languages and frameworks: **Express.js, React.js, Angular, PHP, Python, Node.js, and Vanilla JavaScript**
 
 ---
 
