@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Full-Stack Developer &nbsp;|&nbsp; 🎓 4th Year Computer Science Student
+  Full-Stack Developer &nbsp;|&nbsp; 4th Year Computer Science Student
 </p>
 
 ---
