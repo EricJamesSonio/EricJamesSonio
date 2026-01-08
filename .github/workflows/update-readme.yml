@@ -2,7 +2,7 @@ name: Update README automatically
 
 on:
   schedule:
-    - cron: "0 */1 * * *"
+    - cron: "0 */6 * * *"  # Run every 6 hours instead of every hour
   workflow_dispatch:
 
 permissions:
@@ -48,6 +48,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Updated README automatically"
+            git commit -m "✨ Updated README automatically"
             git push
           fi
