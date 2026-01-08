@@ -65,17 +65,6 @@
 
 ---
 
-## Recent Activity
-<!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [EricJamesSonio/EricJamesSonio](https://github.com/EricJamesSonio/EricJamesSonio)<br>
-2. ⬆️ Pushed undefined commit(s) to [EricJamesSonio/EricJamesSonio](https://github.com/EricJamesSonio/EricJamesSonio)<br>
-3. ⬆️ Pushed undefined commit(s) to [EricJamesSonio/EricJamesSonio](https://github.com/EricJamesSonio/EricJamesSonio)<br>
-4. ⬆️ Pushed undefined commit(s) to [EricJamesSonio/EricJamesSonio](https://github.com/EricJamesSonio/EricJamesSonio)<br>
-5. ⬆️ Pushed undefined commit(s) to [EricJamesSonio/EricJamesSonio](https://github.com/EricJamesSonio/EricJamesSonio)<br>
-<!--RECENT_ACTIVITY:end-->
-
----
-
 ## GitHub & Coding Stats
 <p align="center">
   <!-- GitHub Stats -->
