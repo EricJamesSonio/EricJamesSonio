@@ -84,12 +84,14 @@
 </p>
 
 
+## GitHub & Coding Stats
+
 <p align="center">
-  <!-- WakaTime Card -->
-  <a href="https://wakatime.com/@Ejdev" target="_blank">
-    <img src="https://img.shields.io/badge/WakaTime-Coding%20Stats-0D1117?style=for-the-badge&logo=wakatime&logoColor=61DAFB" alt="WakaTime" />
-  </a>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=EricJamesSonio&show_icons=true&theme=radical&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricJamesSonio&layout=compact&theme=radical&langs_count=10" height="160" />
 </p>
+
 
 
 
