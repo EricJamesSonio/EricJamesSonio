@@ -2,7 +2,7 @@ name: Update README automatically
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # Run every 6 hours instead of every hour
+    - cron: "0 */6 * * *"  # Run every 6 hours
   workflow_dispatch:
 
 permissions:
@@ -35,10 +35,26 @@ jobs:
               f.write(updated)
           EOF
 
-      - name: Update GitHub Activity
-        uses: Readme-Workflows/recent-activity@main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Force refresh GitHub Stats
+        run: |
+          python3 << 'EOF'
+          import re
+          from datetime import datetime
+
+          with open('README.md', 'r') as f:
+              content = f.read()
+
+          # Append timestamp to GitHub stats URLs to force reload
+          timestamp = int(datetime.now().timestamp())
+          content = re.sub(
+              r'(github-readme-stats-fast\.vercel\.app/.*?)([&\?]cache_seconds=\d+)?',
+              r'\1&cache_seconds=0&t=' + str(timestamp),
+              content
+          )
+
+          with open('README.md', 'w') as f:
+              f.write(content)
+          EOF
 
       - name: Commit changes
         run: |
