@@ -26,12 +26,8 @@
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css" />
 </p>
 
 <p align="center">
@@ -39,7 +35,6 @@
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dot-net" />
-  <img src="https://img.shields.io/badge/Apollo-311C87?style=for-the-badge&logo=apollo-graphql" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django" />
@@ -60,13 +55,6 @@
 </p>
 
 <p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-</p>
-
-<p align="center">
   <!-- Testing & Tools -->
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
@@ -75,23 +63,12 @@
 
 ---
 
-## Currently Learning
-
-<!--START_SECTION:currently-learning-->
-- TypeScript
-- React Performance Optimization
-- Express.js
-- Next.js
-<!--END_SECTION:currently-learning-->
-
----
-
 ## GitHub & Coding Stats
 
 <p align="center">
-  <!-- Official GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=EricJamesSonio&show_icons=true&theme=radical&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricJamesSonio&layout=compact&theme=radical&langs_count=10" height="160" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=EricJamesSonio&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=EricJamesSonio&layout=compact&theme=radical" height="160" />
 </p>
 
 <p align="center">
@@ -100,6 +77,8 @@
     <img src="https://img.shields.io/badge/WakaTime-Coding%20Stats-0D1117?style=for-the-badge&logo=wakatime&logoColor=61DAFB" alt="WakaTime" />
   </a>
 </p>
+
+
 
 ---
 
