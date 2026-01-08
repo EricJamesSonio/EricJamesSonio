@@ -13,46 +13,41 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout repo
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      # Update Currently Learning section using a shell script
       - name: Update Currently Learning
         run: |
-          file="README.md"
-          section="currently-learning"
+          python3 << 'EOF'
+          import re
           
-          # Create temp file with new content
-          awk -v section="$section" '
-          /<!--START_SECTION:currently-learning-->/ {
-            print
-            print "- TypeScript"
-            print "- React Performance Optimization"
-            print "- Express.js"
-            print "- Next.js"
-            skip=1
-            next
-          }
-          /<!--END_SECTION:currently-learning-->/ {
-            skip=0
-          }
-          !skip
-          ' "$file" > "${file}.tmp" && mv "${file}.tmp" "$file"
+          with open('README.md', 'r') as f:
+              content = f.read()
+          
+          new_content = "- TypeScript\n- React Performance Optimization\n- Express.js\n- Next.js"
+          
+          pattern = r'(<!--START_SECTION:currently-learning-->)(.*?)(<!--END_SECTION:currently-learning-->)'
+          replacement = r'\1\n' + new_content + r'\n\3'
+          
+          updated = re.sub(pattern, replacement, content, flags=re.DOTALL)
+          
+          with open('README.md', 'w') as f:
+              f.write(updated)
+          EOF
 
-      # Update Recent Activity section
       - name: Update GitHub Activity
         uses: Readme-Workflows/recent-activity@main
-        with:
+        env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          limit: 5
-          file: README.md
-          section: activity
 
-      # Commit changes if any
       - name: Commit changes
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Updated README automatically" && git push)
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Updated README automatically"
+            git push
+          fi
