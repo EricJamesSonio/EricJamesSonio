@@ -67,8 +67,8 @@
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats-fast.vercel.app/&cache_seconds=0&t=1767851641api?username=EricJamesSonio&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats-fast.vercel.app/&cache_seconds=0&t=1767851641api/top-langs?username=EricJamesSonio&layout=compact&theme=radical" height="160" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=EricJamesSonio&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=EricJamesSonio&layout=compact&theme=radical" height="160" />
 </p>
 
 <p align="center">
