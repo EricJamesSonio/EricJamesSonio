@@ -75,25 +75,31 @@
 
 ---
 
+## Currently Learning
+
+<!--START_SECTION:currently-learning-->
+- TypeScript
+- React Performance Optimization
+- Express.js
+- Next.js
+<!--END_SECTION:currently-learning-->
+
+---
+
 ## GitHub & Coding Stats
 
 <p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats-fast.vercel.app/&cache_seconds=0&t=1767851375api?username=EricJamesSonio&show_icons=true&theme=radical&cache_seconds=0" height="160" />
-  <img src="https://github-readme-stats-fast.vercel.app/&cache_seconds=0&t=1767851375api/top-langs?username=EricJamesSonio&layout=compact&theme=radical&cache_seconds=0" height="160" />
-</p>
-
-
-## GitHub & Coding Stats
-
-<p align="center">
-  <!-- GitHub Stats -->
+  <!-- Official GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=EricJamesSonio&show_icons=true&theme=radical&count_private=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricJamesSonio&layout=compact&theme=radical&langs_count=10" height="160" />
 </p>
 
-
-
+<p align="center">
+  <!-- WakaTime Card -->
+  <a href="https://wakatime.com/@Ejdev" target="_blank">
+    <img src="https://img.shields.io/badge/WakaTime-Coding%20Stats-0D1117?style=for-the-badge&logo=wakatime&logoColor=61DAFB" alt="WakaTime" />
+  </a>
+</p>
 
 ---
 
