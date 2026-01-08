@@ -79,9 +79,8 @@
 
 <p align="center">
   <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=EricJamesSonio&show_icons=true&theme=radical&count_private=true" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricJamesSonio&layout=compact&theme=radical&langs_count=10" height="160" />
-
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=EricJamesSonio&show_icons=true&theme=radical&cache_seconds=0" height="160" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=EricJamesSonio&layout=compact&theme=radical&cache_seconds=0" height="160" />
 </p>
 
 
