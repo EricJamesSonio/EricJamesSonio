@@ -14,7 +14,7 @@
 
 ## About Me
 
-- I’m a **Full-Stack Developer**
+- I'm a **Full-Stack Developer**
 - Primarily focused on **Backend Development**, with an emphasis on scalability, security, and maintainable software
 - Frequently use the following languages and frameworks: **Express.js, React.js, Angular, PHP, Python, Node.js, and Vanilla JavaScript**
 
@@ -32,13 +32,13 @@
 
 <p align="center">
   <!-- Backend -->
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dot-net" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk" />
 </p>
 
 <p align="center">
@@ -67,8 +67,8 @@
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=EricJamesSonio&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=EricJamesSonio&layout=compact&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EricJamesSonio&show_icons=true&theme=radical&cache_seconds=1800" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EricJamesSonio&layout=compact&theme=radical&cache_seconds=1800" height="160" />
 </p>
 
 <p align="center">
@@ -77,8 +77,6 @@
     <img src="https://img.shields.io/badge/WakaTime-Coding%20Stats-0D1117?style=for-the-badge&logo=wakatime&logoColor=61DAFB" alt="WakaTime" />
   </a>
 </p>
-
-
 
 ---
 
@@ -92,4 +90,4 @@
 
 ---
 
-*“Code hard, learn harder.”*
+*"Code hard, learn harder."*
