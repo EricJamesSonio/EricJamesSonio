@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Eric James Sonio</h1>
 
 <p align="center">
-  <a href="https://ericjamessonio.github.io/Porttfolio/" target="_blank">
+  <a href="https://ericjamessonio.github.io/Portfolio/" target="_blank">
     🌐 Visit My Portfolio
   </a>
 </p>
